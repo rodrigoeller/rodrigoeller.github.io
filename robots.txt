@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /img/alm/
+
+Sitemap: https://www.rodrigoeller.online/sitemap.xml
